@@ -18,7 +18,7 @@ local colors = {
     light_grey = "#9E9E9E",
     lighter_grey = "#BCBCBC",
     lightest_grey = "#CCCCCC",
-    white = "#FFFFFF",
+    white = "#3cc966",
     -- }}}
     --------------------------------------------------------------------------------
 
